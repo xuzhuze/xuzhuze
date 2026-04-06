@@ -1,18 +1,10 @@
-## Hi there 👋
+## Hi there
 
-I'm a second-year undergraduate student from [School of Intelligent Software and Engineering](https://ise.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). 
+I'm a third-year undergraduate student from [School of Intelligent Software and Engineering](https://ise.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). 
 
-**My research interest includes machine learning, deep learning .**
+**My interest includes **AI-Native Application Architecture**, **Multi-Agent Systems**, and **Advanced RAG Engineering**. I am passionate about moving beyond simple LLM API wrappers to build reliable, stateful, and production-ready intelligent software. My current focus lies in state orchestration (e.g., LangGraph), high-performance vector infrastructure (e.g., Milvus), and automated Agent evaluation harnesses.**
 
-# Courses being learned
-- [ ] CS61A (finish project ants)
-- [ ] CS61B
-- [ ] MIT-Missing-Semester (Part2 Shell Tools and Scripting)
-- [ ] CS106L (Part 4.3 Functions and Algorithms)
-- [ ] CS188
-- [ ] Algorithms I & II
-- [ ] Coursera: Machine Learning
-- [ ] CS229
+
 <!--
 **VKlioon/VKlioon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
