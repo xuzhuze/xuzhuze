@@ -29,9 +29,9 @@ I am currently focusing my practical and research efforts on the following core 
 
 ---
 <div align="center">
-  <i>“Talk is cheap. Show me the agent.”</i>
+  <i>“Talk is cheap. Show me the harness.”</i>
     <br>
-  <p>[Your Contact info or personal links here]</p>
+  <p>zhuzexu@smail.nju.edu.cn</p>
 </div>
 
 <!--
