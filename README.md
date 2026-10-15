@@ -2,7 +2,7 @@
 
 **AI-Native Software Engineer | Agent Systems · Backend Engineering · AI Products**
 
-**Open to Full-time & Internship Opportunities**
+**Open to Full-time & Internship Opportunities** | Class of 2027
 
 I'm a final-year undergraduate student at the [School of Intelligent Software and Engineering](https://ise.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/).
 
